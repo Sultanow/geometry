@@ -1,0 +1,3 @@
+[submodule "polyhedra/face-neighbourly-search/tools/drat-trim"]
+	path = polyhedra/face-neighbourly-search/tools/drat-trim
+	url = https://github.com/marijnheule/drat-trim.git
