@@ -4,7 +4,7 @@ Computational and experimental geometry: code, data and certificates behind rese
 
 | Folder | Topic | Data |
 |---|---|---|
-| [`polyhedra/`](polyhedra/) | Face-neighbourly polyhedra: there is no nine-faced one of genus 3 (computer-assisted, DRAT-certified) | [Kaggle](https://www.kaggle.com/datasets/eldarsultanow/no-face-neighbourly-nine-hedron-of-genus-three) |
+| [`polyhedra/`](polyhedra/) | Face-neighbourly polyhedra: there is no nine-faced one of genus 3 (computer-assisted, DRAT-certified) | [Kaggle, DOI 10.34740/kaggle/dsv/21808309](https://doi.org/10.34740/kaggle/dsv/21808309) |
 
 Each folder has its own README with the result, the method, and how to reproduce and check it.
 

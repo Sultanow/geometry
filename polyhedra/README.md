@@ -17,7 +17,7 @@ Not covered: genus 4 and higher, and vertices with four or more faces.
 ## Data and certificates
 
 All formulas, DRAT proofs, the 203 candidate maps and the near-miss configurations (about 1.8 GB):
-**https://www.kaggle.com/datasets/eldarsultanow/no-face-neighbourly-nine-hedron-of-genus-three**
+**https://doi.org/10.34740/kaggle/dsv/21808309** (Kaggle, DOI 10.34740/kaggle/dsv/21808309)
 
 The dataset README explains every file and how to check a certificate with drat-trim.
 
@@ -46,6 +46,10 @@ python tests/test_omsat_alt.py      # OM CONTROLS PASSED (alternative encoding)
 ## Acknowledgments
 
 The computations were carried out on the Research Computing Infrastructure of the EDIH Hamburg. Development of the code and the analysis was assisted by Claude (Anthropic).
+
+## Citation
+
+Eldar Sultanow (2026). *No Face-Neighbourly Nine-Hedron of Genus Three* [Data set]. Kaggle. https://doi.org/10.34740/kaggle/dsv/21808309
 
 ## License
 
